@@ -18,7 +18,9 @@ Open the following file using nano/vi on your server /opt/zimbra/jetty/webapps/z
 This Zimlet shows random image in the top of the Zimbra UI after the user is logged in.
 
       mkdir /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
-      wget 
+      mkdir /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
+      wget https://raw.githubusercontent.com/Zimbra-Community/unsplash/master/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.xml -O /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.xml
+      wget https://raw.githubusercontent.com/Zimbra-Community/unsplash/master/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.css -O /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.css
 
 
 ### Screenshots
