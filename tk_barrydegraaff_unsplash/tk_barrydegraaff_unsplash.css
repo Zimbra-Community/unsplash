@@ -6,3 +6,12 @@
    background-size     : cover;
 }
 
+/*While we are modding, also make a nicer looking toaster*/
+.ZToastContent {
+   background-color: #444444;
+   box-shadow: 2px 2px 4px #000000;
+}
+
+div#z_toast_text {
+    color: white !important;
+}
