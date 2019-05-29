@@ -1,8 +1,8 @@
 # Unsplash
-Spice up the Zimbra log-in screen with random images from unsplash.com.
+Spice up the Zimbra with random images from unsplash.com.
 
 ### Installing
-Open the following file using nano/vi on your server /opt/zimbra/jetty/webapps/zimbra/public/login.jsp and append before `</body>` the following css:
+To show random image on login screen: Open the following file using nano/vi on your server /opt/zimbra/jetty/webapps/zimbra/public/login.jsp and append before `</body>` the following css:
 
          <style>
          .LoginScreen {
