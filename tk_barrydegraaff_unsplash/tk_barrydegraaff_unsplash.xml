@@ -1,0 +1,3 @@
+<zimlet name="tk_barrydegraaff_unsplash" version="0.1" label="Unsplash theme" description="Show random image in UI" target="main view-window">
+   <includeCSS>tk_barrydegraaff_unsplash.css</includeCSS>
+</zimlet>
