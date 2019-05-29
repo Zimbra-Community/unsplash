@@ -13,7 +13,9 @@ Open the following file using nano/vi on your server /opt/zimbra/jetty/webapps/z
              background-size     : cover;
          }
          </style>
-         
+
+### Screenshots
+
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095906_1920x1080_scrot.png)
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095919_1920x1080_scrot.png)
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095926_1920x1080_scrot.png)
