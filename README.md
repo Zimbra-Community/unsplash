@@ -14,6 +14,13 @@ Open the following file using nano/vi on your server /opt/zimbra/jetty/webapps/z
          }
          </style>
 
+### Bonus zimlet
+This Zimlet shows random image in the top of the Zimbra UI after the user is logged in.
+
+      mkdir /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
+      wget 
+
+
 ### Screenshots
 
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095906_1920x1080_scrot.png)
