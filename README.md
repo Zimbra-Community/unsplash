@@ -17,13 +17,17 @@ To show random image on login screen: Open the following file using nano/vi on y
 ### Bonus zimlet
 This Zimlet shows random image in the top of the Zimbra UI after the user is logged in.
 
-      mkdir /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
-      mkdir /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
+      mkdir -p /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
+      cd /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash
       wget https://raw.githubusercontent.com/Zimbra-Community/unsplash/master/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.xml -O /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.xml
       wget https://raw.githubusercontent.com/Zimbra-Community/unsplash/master/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.css -O /opt/zimbra/zimlets-deployed/_dev/tk_barrydegraaff_unsplash/tk_barrydegraaff_unsplash.css
 
 
 ### Screenshots
+
+![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2021-02-21-184250_1920x1080_scrot.png)
+![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2021-02-21-184312_1920x1080_scrot.png)
+![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2021-02-21-184333_1920x1080_scrot.png)
 
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095906_1920x1080_scrot.png)
 ![alt text](https://github.com/Zimbra-Community/unsplash/raw/master/2019-05-29-095919_1920x1080_scrot.png)
